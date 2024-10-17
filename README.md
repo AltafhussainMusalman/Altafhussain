@@ -15,7 +15,7 @@
 
 ## Skills 💪
 
-- **Programming Languages**: 🌐 Language 1, 🌐 Language 2, 🌐 Language 3
+- **Programming Languages**: 🌐 HTML 🌐 CSS 🌐 JAVA
 - **Frameworks/Libraries**: ⚙️ Framework 1, ⚙️ Framework 2
 - **Tools**: 🛠️ Tool 1, 🛠️ Tool 2, 🛠️ Tool 3
 - **Soft Skills**: 🧠 Skill 1, 🧠 Skill 2
@@ -38,9 +38,9 @@
 
 ## Education 🎓
 
-- **Degree**: Your Degree
-- **Institution**: 🏫 Your University/College
-- **Year of Graduation**: Year
+- **Degree**:Diploma {Computer Science Engineering}
+- **Institution**: 🏫 Tribhuvan University
+- **Year of Graduation**:2023-2026
 
 ---
 
@@ -48,7 +48,7 @@
 
 Feel free to reach out for collaboration or inquiries!
 
-- **Email**: 📧 [your-email@example.com](mailto:your-email@example.com)
+- **Email**: 📧 (hussainmusalmanaltag@gmail.com)
 - **LinkedIn**: 🔗 [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
 
 ---
